@@ -1,0 +1,10 @@
+C:\Users\SoftDev\source\repos\Pharmacy_login\bin\Debug\Pharmacy_login.exe.config
+C:\Users\SoftDev\source\repos\Pharmacy_login\bin\Debug\Pharmacy_login.exe
+C:\Users\SoftDev\source\repos\Pharmacy_login\bin\Debug\Pharmacy_login.pdb
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.csproj.AssemblyReference.cache
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.Properties.Resources.resources
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.csproj.GenerateResource.cache
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.csproj.CoreCompileInputs.cache
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.exe
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.pdb
+C:\Users\SoftDev\source\repos\Pharmacy_login\obj\Debug\Pharmacy_login.Login.resources
